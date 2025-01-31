@@ -1,5 +1,5 @@
-import { Tetris } from "./tetris.js";
-import { PLAYFIELD_COLUMNS, PLAYFIELD_ROWS, convertPositionToIndex, SAD } from "./utilities.js";
+import { Tetris } from "./tetris1.js";
+import { PLAYFIELD_COLUMNS, PLAYFIELD_ROWS, convertPositionToIndex, SAD } from "./utilities1.js";
 
 let hammer;
 let requestId;
